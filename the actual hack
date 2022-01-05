@@ -1,3 +1,4 @@
+# most of this code is copied from https://gist.github.com/tokyoneon/34ce1c9e1530a12eb392b1eab09fcbac
 function sudo () {
   # A "realsudo" variable is created. It calls the `which` command to locate
   # the path to the real sudo binary. This is used later in the function to
